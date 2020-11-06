@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primaryClr</item>
+        <item name="colorPrimaryDark">@color/darkPrimaryClr</item>
+        <item name="colorAccent">@color/accentClr</item>
+    </style>
+
+    <style name="textStyle">
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/textClr</item>
+        <item name="android:layout_margin">10dp</item>
+    </style>
+</resources>
